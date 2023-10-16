@@ -1,6 +1,6 @@
 {
-  "name": "sandbox",
-  "version": "0.0.0",
+  "name": "angular-with-dhtmlx-scheduler",
+  "version": "0.0.1",
   "scripts": {
     "ng": "ng",
     "start": "ng serve --disable-host-check",
@@ -18,8 +18,8 @@
     "@angular/platform-browser": "^16.0.0",
     "@angular/platform-browser-dynamic": "^16.0.0",
     "@angular/router": "^16.0.0",
-    "@dhx/trial-gantt": "^8.0.3",
-    "npm": "^10.0.0",
+    "@dhx/trial-scheduler": "^6.0.5",
+    "npm": "^10.2.0",
     "rxjs": "~7.8.0",
     "start": "^5.1.0",
     "tslib": "^2.3.0",
